@@ -3,6 +3,12 @@
 ## Description
 This project aims to verify that all users belonging to the city "FanCode" have completed more than 50% of their todos.
 
+**Programming Language:** Java
+
+**Test Management & Execution:** Cucumber
+
+**API Library:** Rest Assured
+
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
 
