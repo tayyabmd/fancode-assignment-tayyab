@@ -16,7 +16,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/fancode-assignment.git](https://github.com/tayyabmd/fancode-assignment-tayyab.git
-   cd fancode-assignment
+   cd fancode-assignment-tayyab
 
    mvn clean install
    mvn test
