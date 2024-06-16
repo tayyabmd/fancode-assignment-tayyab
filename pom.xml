@@ -40,10 +40,11 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <version>1.18.22</version> <!-- Ensure version is up-to-date -->
+            <version>1.18.32</version> <!-- Ensure version is up-to-date -->
             <scope>provided</scope>
         </dependency>
 
     </dependencies>
+
 
 </project>

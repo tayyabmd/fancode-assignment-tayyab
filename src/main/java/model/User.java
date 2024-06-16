@@ -15,9 +15,8 @@ public class User {
     private Address address; // Nested Address class
     private String phone;
     private String website;
-    private Company company; // Nested Company class
+    private Company company;
 
-    // Nested Address class with its own annotations
     @Data
     @NoArgsConstructor
     @AllArgsConstructor
@@ -26,10 +25,9 @@ public class User {
         private String suite;
         private String city;
         private String zipcode;
-        private Geo geo; // Nested Geo class
+        private Geo geo;
     }
 
-    // Nested Company class with its own annotations
     @Data
     @NoArgsConstructor
     @AllArgsConstructor
@@ -39,7 +37,6 @@ public class User {
         private String bs;
     }
 
-    // Nested Geo class with its own annotations
     @Data
     @NoArgsConstructor
     @AllArgsConstructor

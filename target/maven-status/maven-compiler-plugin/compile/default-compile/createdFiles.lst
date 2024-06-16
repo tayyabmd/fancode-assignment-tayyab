@@ -1,0 +1,7 @@
+utils/TaskUtils.class
+model/User$Address.class
+model/User.class
+model/User$Company.class
+api/UserService.class
+model/User$Geo.class
+stepdefs/FancodeStepDefinitions.class
